@@ -1,0 +1,2 @@
+Primeproduct python program will identify the prime numbers exists between 1 and the given number. it will calculate the 
+product two numbers from the list and returns true if the product and given number are same.
